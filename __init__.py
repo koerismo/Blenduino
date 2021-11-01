@@ -104,7 +104,7 @@ def setEnableState( self, context ):
 
 bl_info = {
 	"name": "Blenduino",
-	"author": "Baguettery",
+	"author": "Koerismo",
 	"blender": (2, 93, 5),
 	"version": (0, 7),
 	"description": "A plugin designed for the Arduino Uno. Requires PyFirmata to function!",
